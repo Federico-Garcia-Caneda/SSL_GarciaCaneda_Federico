@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main() {
-    printf("Primer programa en Sintaxis y Semántica de los Lenguajes\n");
-    return 0;
+
+int main(int argc, char *argv[]) {
+    printf("Hola mundo\n");
 }
